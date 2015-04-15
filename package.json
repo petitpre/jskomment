@@ -1,0 +1,22 @@
+{
+  "name": "jskomment",
+  "version": "1.0.0",
+  "description": "jskomment =========",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petitpre/jskomment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/petitpre/jskomment/issues"
+  },
+  "homepage": "https://github.com/petitpre/jskomment",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-spoonware": "0.0.7",
+    "load-grunt-tasks": "^3.1.0"
+  }
+}
